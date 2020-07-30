@@ -1,0 +1,1 @@
+EmailDoRemetente;Senha;EmailDoDestinatário
